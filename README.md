@@ -7,17 +7,14 @@ Road traffic accidents remain a persistent public safety challenge globally. Thi
 The core goal is to support data-driven decision-making for reducing accident severity and frequency through detailed analysis of speed limits, road conditions, weather patterns, and vehicle involvement.
 
 ##  Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn)
-- Microsoft Excel
-- Power BI / Tableau (Dashboard Visualization)
-- Jupyter Notebooks
+- Microsoft Excel: Pivot Table, (Dashboard Visualization) 
 - Statistical Analysis: Correlation, Descriptive Statistics
 
 ##  Project Structure
-├── Cleaned and raw datasets
-├── Dashboard video or screenshots
-├── Final PowerPoint slides
-├── Project overview and documentation
+- Cleaned and raw datasets
+- Dashboard video or screenshots
+- Final PowerPoint slides
+- Project overview and documentation
 
 ## Key Analyses & Insights
 
@@ -45,13 +42,14 @@ The core goal is to support data-driven decision-making for reducing accident se
 
 ##  Dashboard Highlight
 
+<img width="1920" height="1040" alt="(Road AccidentDataExcel - Excel 03_08_2025 20_07_14" src="https://github.com/user-attachments/assets/25ecf2f8-d5f6-47a9-96c5-9182f7d1c3cb" />
+
 A dynamic dashboard has been created to visually present:
 - Time-based accident trends
 - High-risk zones
 - Severity by weather and road conditions
 - Filtering by speed limits, accident types, and vehicle involvement
 
-> Accident Data Analysis Dashboard
 
 ## Recommendations
 
@@ -63,6 +61,6 @@ Based on insights from the analysis, we propose:
 
 ## Conclusion
 
-### This analysis demonstrates that data can be a powerful tool in shaping safer transportation systems. While many accidents involve only minor injuries, targeted intervention at high-risk intersections and under poor weather conditions can yield major safety improvements.
+- This analysis demonstrates that data can be a powerful tool in shaping safer transportation systems. While many accidents involve only minor injuries, targeted intervention at high-risk intersections and under poor weather conditions can yield major safety improvements.
 ---
 
